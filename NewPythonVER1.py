@@ -2,8 +2,8 @@ y = list()
 x = list()
 def HelloWorld():
   print("Hello World")
-addX = X.append
-AddY = Y.append
+addX = x.append
+AddY = y.append
 text = print
 put_text = input
 ten = 10
