@@ -1,5 +1,6 @@
-add = append
-def HelloWorld:
+addX = X.append
+AddY = Y.append
+def HelloWorld():
   print("Hello World")
 x = list()
 y = list()
